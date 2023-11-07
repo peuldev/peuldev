@@ -19,6 +19,7 @@ Here are some ideas to knowing me:
 ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=for-the-badge&logo=Tailwind%20CSS&color=black)
 ![Static Badge](https://img.shields.io/badge/daisyui-%235A0EF8?style=for-the-badge&logo=daisyui&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=Visual%20Studio%20Code)
+![Static Badge](https://img.shields.io/badge/markdown-%23000000?style=for-the-badge&logo=markdown)
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
