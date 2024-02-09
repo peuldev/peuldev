@@ -20,7 +20,6 @@ Here are some ideas to knowing me:
 ![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=MongoDB&logoColor=white&labelColor=black&color=23339933)
 ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=for-the-badge&logo=Tailwind%20CSS&color=black)
 ![Static Badge](https://img.shields.io/badge/daisyui-%235A0EF8?style=for-the-badge&logo=daisyui&labelColor=black)
-![Static Badge](https://img.shields.io/badge/MUI-%23007FFF?style=for-the-badge&logo=mui&logoColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=Visual%20Studio%20Code)
 ![Static Badge](https://img.shields.io/badge/markdown-%23000000?style=for-the-badge&logo=markdown)
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
