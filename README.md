@@ -12,9 +12,7 @@ Here are some ideas to knowing me:
 ### My Stack
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=23323330&color=%23403f3e)
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&logoColor=23323330&color=black)
-![Static Badge](https://img.shields.io/badge/redux-%23764ABC?style=for-the-badge&logo=redux)
 ![Static Badge](https://img.shields.io/badge/react%20router-%23CA4245?style=for-the-badge&logo=react%20router&logoColor=white)
-![Static Badge](https://img.shields.io/badge/NEXT.JS-%23000000?style=for-the-badge&logo=next.js)
 ![Static Badge](https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=Firebase&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=black&color=%23339933)
 ![Static Badge](https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge&logo=Express&logoColor=white&color=black)
